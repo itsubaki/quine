@@ -1,2 +1,3 @@
 # quine
-Writing code that writes itself
+
+ - Writing code that writes itself
